@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "repo": "whisper",
+  "repo_version": null,
+  "archetype": "fork",
+  "generated_at": "2026-04-16T15:15:46.771805+00:00",
+  "stats": {
+    "node_count": 5,
+    "edge_count": 0
+  },
+  "nodes": [
+    {
+      "id": "document:readme",
+      "type": "document",
+      "name": "README",
+      "file": "README.md"
+    },
+    {
+      "id": "component:data",
+      "type": "component",
+      "name": "data",
+      "file": "data",
+      "description": "2 files"
+    },
+    {
+      "id": "component:notebooks",
+      "type": "component",
+      "name": "notebooks",
+      "file": "notebooks",
+      "description": "2 files"
+    },
+    {
+      "id": "component:tests",
+      "type": "component",
+      "name": "tests",
+      "file": "tests",
+      "description": "5 files"
+    },
+    {
+      "id": "component:whisper",
+      "type": "component",
+      "name": "whisper",
+      "file": "whisper",
+      "description": "22 files"
+    }
+  ],
+  "edges": [],
+  "subsystems": []
+}
